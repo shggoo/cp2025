@@ -5,6 +5,7 @@ This is READMA
 - item2
 
 ## Part2
+1. Sunday
 1. Monday
 2. Tuesday
 3. Wednesday
